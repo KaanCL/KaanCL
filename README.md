@@ -4,8 +4,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kaan_cl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaan_cl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaan çerkez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaan çerkez" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kaancl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaancl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaan-çerkez-245623252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaan çerkez" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22657643/kaancl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaancl" height="30" width="40" /></a>
 <a href="https://instagram.com/kaanncerkezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaanncerkezz" height="30" width="40" /></a>
 </p>
 
