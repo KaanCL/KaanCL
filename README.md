@@ -18,6 +18,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaanCL&show_icons=true&theme=radical&hide=issues&count_private=true)
 
+![Snake Dark](https://raw.githubusercontent.com/KaanCL/KaanCL/output/github-snake-dark.svg)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaancl&show_icons=true&locale=en&theme=radical" alt="kaancl" /></p>
